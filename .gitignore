@@ -1,0 +1,5 @@
+rvenv/
+.spyproject/
+.virtual_documents/
+data/00_image/.ipynb*
+src/.ipynb*
